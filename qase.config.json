@@ -1,0 +1,12 @@
+{
+  "mode": "testops",
+  "debug": true,
+  "testops": {
+    "api": {
+      "token": "<your-token>"
+    },
+    "project": "<your-project-code>"
+  },
+  "usev2": true
+} 
+
